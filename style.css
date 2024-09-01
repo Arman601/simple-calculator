@@ -1,0 +1,57 @@
+/* html {
+  height: 100%;
+  width: 100%;
+} */
+
+
+
+
+.Text-center {
+    text-align: center;
+  }
+  
+  /* .bg-red{
+    background-color: red;
+  } */
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  
+  button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+  }
+  
+  .flex{
+    display: flex;
+  
+  }
+  
+  .flex-col{
+    flex-direction: column;
+  
+  }
+  
+  .container {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .row{
+    margin: 8px 0;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .row input{
+    margin:2px solid black ;
+    padding: 10px 38px;
+  border-radius:5px;
+  }
